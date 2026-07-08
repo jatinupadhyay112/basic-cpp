@@ -10,6 +10,7 @@ void arrayintersection (int ar1[],int ar2[],int m,int n){
             }
         }
     }
+    cout<<endl;
 }
 
 int main(){
