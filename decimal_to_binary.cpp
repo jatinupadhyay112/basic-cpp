@@ -11,6 +11,7 @@ void decimal_to_binary(int n){
     cout<<ans;
 }
 
+
 int main(){
     int n;
     cout<<"enter";
