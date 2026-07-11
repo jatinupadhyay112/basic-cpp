@@ -4,3 +4,4 @@
 
 1 array intersection 
 2 lowercase uppercase identify 
+3 character printing upto
