@@ -3,3 +3,4 @@
 # trying to be consistant in the commiting in github daily
 
 1 array intersection 
+2 lowercase uppercase identify 
